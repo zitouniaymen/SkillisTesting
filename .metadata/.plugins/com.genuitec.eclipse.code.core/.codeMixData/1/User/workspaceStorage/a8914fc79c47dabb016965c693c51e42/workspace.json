@@ -1,0 +1,10 @@
+{
+  "configuration": {
+    "$mid": 1,
+    "fsPath": "c:\\Data\\workspaces\\tests\\partition\\.metadata\\codemix.code-workspace",
+    "_sep": 1,
+    "external": "file:///c%3A/Data/workspaces/tests/partition/.metadata/codemix.code-workspace",
+    "path": "/C:/Data/workspaces/tests/partition/.metadata/codemix.code-workspace",
+    "scheme": "file"
+  }
+}
